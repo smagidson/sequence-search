@@ -1,0 +1,13 @@
+node_modules
+
+# don't save GenBank files
+*.gbk
+
+__pycache__
+
+# React production build
+webpage/build
+
+log/
+
+archive/
