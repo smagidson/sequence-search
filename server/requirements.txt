@@ -6,7 +6,7 @@ Django==3.0.8
 django-cors-headers==3.4.0
 docutils==0.15.2
 jmespath==0.10.0
-numpy==1.19.0
+numpy==1.22.0
 psycopg2==2.8.5
 python-dateutil==2.8.1
 pytz==2020.1
